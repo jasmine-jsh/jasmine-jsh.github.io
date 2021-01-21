@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Soy Jasmin!
+title: Nice to meet u :)
 logo: logo(1).png # You can add own logo.
 description: About all the things I love
 
@@ -8,10 +8,10 @@ description: About all the things I love
 #-------------------------------
 # Author Settings
 author:
-  name: Jasmine
+  name: Seolhee Jasmine Jeon
   image: 01.jpg
   say-hello: Hello, I’m <strong>Seolhee</strong>
-  bio: Write about my research interests. And share my <a href="#">Exploration of Happiness in Mindful Life</a>.
+  bio: I write about my research interests and share my exploration of happiness and mindful life.
 
 
 #-------------------------------
