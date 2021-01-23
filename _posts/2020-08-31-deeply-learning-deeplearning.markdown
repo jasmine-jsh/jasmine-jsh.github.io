@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deeply Learning Deep Learning!"
-date:   2019-08-31 20:49:05 +0900
+date:   2020-08-31 20:49:05 +0900
 image:  10.jpg
 tags:   DeepLearning
 ---

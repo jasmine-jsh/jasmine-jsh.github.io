@@ -4,6 +4,8 @@ url: "https://jasmine-jsh.github.io/" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+karamdown:
+  math_engine: katex
 permalink: pretty
 plugins:
   - jekyll-paginate

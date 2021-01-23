@@ -5,11 +5,13 @@ permalink: /about/
 image: 11.jpg
 ---
 
-Hi, my name is Seolhee Jasmine Jeon. I am an explorer who likes being free and enjoying every moment. I want to share all the things I love: traveling, cooking, knitting, language learning, books, music, swimming, and yoga.
+Hi, my name is Seolhee Jasmine Jeon. I am just a learner who likes to explore and to enjoy every moment. We all learn by living. I believe that experience lets us find the passion and make it our life. \
+\
+In this blog, I want to write about all the joyous moments while doing the things I love: traveling, cooking, knitting, language learning, reading books, listening to music, swimming, doing yoga, and ... (learning more)
 
 ***
 
-> We shape our lives, and we shape ourselves. — Eleanor Roosevelt
+>> We shape our lives, and we shape ourselves. — Eleanor Roosevelt
 
 
 <!---
