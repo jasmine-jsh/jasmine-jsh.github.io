@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Nice to meet u :)
+title: Learn by Living
 logo: logo(1).png # You can add own logo.
-description: About all the things I love
+description: About all the things I learned and love
 
 
 #-------------------------------
@@ -33,7 +33,7 @@ facebook-profile: seolhee.jasmine.jeon
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: jasmine.jsh # Add instagram username
 
 
