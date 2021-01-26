@@ -25,7 +25,7 @@ instagram: https://instagram.com/ # Add your Instagram handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: jasmine # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: jasmine.jsh # add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Facebook Feed
