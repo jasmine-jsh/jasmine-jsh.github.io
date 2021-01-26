@@ -3,7 +3,7 @@ layout: post
 title:  "What is Perceptron?"
 date:   2020-09-16 16:22:7 +0900
 image:  06.png
-tags:   DeepLearning
+tags:   deeplearning
 ---
 
 A <strong>perceptron</strong> is a mathmatical model of a biological neuron. It is a unit of a neural network and also is regarded as <strong>a single layer neural network</strong>. A multy-layer perceptron is called Neural Networks. If you want to know how neural network works, it is necessary to understand how a perceptron works.

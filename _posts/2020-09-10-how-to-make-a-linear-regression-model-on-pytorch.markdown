@@ -3,7 +3,7 @@ layout: post
 title:  "How to Make a Linear Regression Model on PyTorch"
 date:   2020-09-10 08:09:29 +0900
 image:  04.png
-tags:   MachineLearning
+tags:   machinelearning
 ---
 
 The simplest model of regression problem is <strong>linear regression</strong>. Currently, I am practicing how to develop on [`PyTorch`][PyTorch], so, it is the first baby step!
