@@ -3,7 +3,7 @@ layout: post
 title:  "How to Put Math Equations"
 date:   2020-09-01 09:16:11 +0900
 image:  02.jpg
-tags:   Jekyll MathJax
+tags:   jekyll mathjax
 ---
 
 I struggled with putting math equations on the post. Finally, found the way! 

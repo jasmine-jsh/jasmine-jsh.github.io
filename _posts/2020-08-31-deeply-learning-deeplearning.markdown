@@ -3,7 +3,7 @@ layout: post
 title:  "Deeply Learning Deep Learning!"
 date:   2020-08-31 20:49:05 +0900
 image:  10.jpg
-tags:   DeepLearning
+tags:   deeplearning
 ---
 
 I came to [KAIST][KAIST] to learn deeply about Deep Learning after working as a data analyst in [Samsung Electronics][Samsung Electronics] (2016-2020).

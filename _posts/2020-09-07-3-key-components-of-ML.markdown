@@ -3,7 +3,7 @@ layout: post
 title:  "3 Key Components of ML"
 date:   2020-09-07 14:30:41 +0900
 image:  03.png
-tags:   MachineLearning
+tags:   machinelearning
 ---
 
 ## Hypothesis
