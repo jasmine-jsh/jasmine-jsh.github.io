@@ -37,9 +37,20 @@ In machine learning, specifically supervised learning, we can define these 3 key
 ### 2) Classification
 
 <ul>
-<li> <strong>Hypothesis</strong> $$H(x)=Wx+b$$ </li>
+<li> <strong>Hypothesis</strong> $$H(x)=G(Wx+b)=\frac{1}{1+e^{-(Wx+b)}}$$ </li>
 
-<li> <strong>Cost</strong> $$cost(W,b) = \frac{1}{m} \sum_{i=1}^m (H(x^{(i)})-y^{(i)})^2$$ </li>
-
+<li> <strong>Cost</strong> $$cost(W,b) = \frac{1}{m} \sum_{i=1}^m c(H(x^{(i)}),y^{(i)})$$ </li>
+    <ul>
+    <li>$$\begin{equation}
+            c(H(x),y)=
+            \begin{cases}
+                -log(H(x)) & :y=1\\
+                -log(1-H(x)) & :y=0\\
+            \end{cases}       
+        \end{equation}$$
+    </li>
+    </ul>
 <li> <strong>Optimization</strong> $$W:=W-\alpha \frac{\partial}{\partial W}cost(W)$$ </li>
 </ul>
+
+
